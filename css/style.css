@@ -37,9 +37,9 @@ body {
   flex-direction: column;
   padding: 40px;
   background: -webkit-radial-gradient(
-    top right,
-    rgb(50, 10, 100) 100px,
-    rgb(231, 76, 60)
+    top center,
+    rgb(66, 43, 182) 0px,
+    rgb(45, 48, 141)
   );
 }
 
@@ -48,9 +48,9 @@ body {
   height: 15em;
   border-radius: 50%;
   background: -webkit-radial-gradient(
-    top right,
-    rgb(50, 10, 100) 100px,
-    rgb(231, 76, 60)
+    top center,
+    rgb(45, 48, 141) 50px,
+    rgb(66, 43, 182)
   );
 }
 
